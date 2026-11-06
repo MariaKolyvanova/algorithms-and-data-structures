@@ -1,16 +1,14 @@
 # Algorithms and Data Structures
 
-Решения задач по алгоритмам и структурам данных на Java. Каждая задача лежит в отдельном классе. Имя класса начинается с номера, например `P1_TwoSum`.
-
+Решения задач по алгоритмам и структурам данных на Java. Каждая задача лежит в отдельном классе.
 
 <p align="center">
-    <img src="docs/leetcode.svg.webp" alt="LeetCode" height="40px">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img src="docs/coderun.svg" alt="CodeRun" height="40px">
+  <a href="https://leetcode.com/u/MariaKolyvanova/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://coderun.yandex.ru/profile/MariaKolyvanova"><img src="https://img.shields.io/badge/CodeRun-B6A5FF?style=for-the-badge&logo=yandex&logoColor=black" alt="CodeRun"></a>
 </p>
 
+## LeetCode 
 
-## LeetCode
 
 **Массивы**
 
